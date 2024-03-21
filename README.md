@@ -1,8 +1,8 @@
 # quest-template
 
 ## Quest Details 
-#### title: 
-#### level: 
+#### title: Dana's quest
+#### level: 1
 #### skills:
 #### dependencies: 
 
